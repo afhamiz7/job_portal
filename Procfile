@@ -1,1 +1,1 @@
-web: gunicorn job_portal --log-file -
+web: gunicorn jb_portal --log-file -
